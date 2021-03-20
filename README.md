@@ -12,6 +12,14 @@
 - pull request : 각각의 branch에서 개발한 것을 master branch로 병합하기 위한 요청
 - merge : 각각의 branch 에서 개발한 것을 master branch로 병합
 
+> 사이트 링크
+
+마크다운 사용법 : [안내문서](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+HTML, CSS, JS 참고 사이트 : [w3schools](https://www.w3schools.com/)
+온라인 에디터 : [Codepen](https://codepen.io/pen/tour/welcome/start)
+
+깃허브
+
 -------------------------------------------------
 
 frontend 공부시작
@@ -101,3 +109,23 @@ commit에 메모 이력을 남긴다
 ide 에디터
 
 vscode 깃허브 접속
+--------------------------
+웹사이트 기술 표준 사이트 w3c
+
+header tag
+
+html 5.1버전
+
+css grid layout
+
+w3schools.com
+
+자바:소프트개발언어
+
+asp
+
+웹기술=프론트엔드
+
+코드펜
+--------------
+
