@@ -52,6 +52,11 @@ ex)컴퓨터,모바일 등은 클라이언트 본체는 서버
   
   편집기 코드펜
   https://www.w3schools.com/html/html_basic.asp
+  
+>[HTML Element](https://www.w3schools.com/html/html_basic.asp)
+
+>[HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
+
 -------------------------------------------------
 html,css,js는클라이언트 브라우저가 해석(뿌려준다)랜더링한다
  해석=랜더링,컴파일링,인터프리팅
