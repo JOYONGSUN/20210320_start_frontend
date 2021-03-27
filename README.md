@@ -235,4 +235,50 @@ asp
 
 
 --------------
+만들겠다하면 몇천 몇만줄이 됩니다~
+그렇게 코드영문하고 한글하고 섞이다보니
+들여쓰기로 모듈단위로 나누어주고 포함관계 표시
+유지보수에 용의하다
 
+가독성이 좋게 어떻게 코딩을할까???????????
+작은따옴표,큰따옴표?
+
+지금은 들여쓰기 가독성때문에 잘 지켜주자
+
+그렇게 정리 ㄱ ㄱ 
+
+위키백과 만들어볼거임
+
+html
+
+역사-최초 규격까지~!!!!!
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>2일차</title>
+</head>
+<body>
+    <h1>사전찾기,태그+컨텐츠=엘리먼트</h1>
+    <p>
+    스타트테그,엔드테그->컨텐츠입력
+    *****빈태그,빈요소=시작태그만 있음
+    소문자입력원칙
+    html attributes : html속성
+    css property : css 속성
+    HTML 속성 : 시작 태그에 지정,일반적으로 name = "value" 와 같은 이름 / 값 쌍
+    ex)<a href=""></a>,<img src=""> 
+
+    웹문서,웹앱(구글 문서)
+
+    서비스사이트
+
+    분활화면
+
+    h1>h6
+    </p>
+</body>
+</html>
