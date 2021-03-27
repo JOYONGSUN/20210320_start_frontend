@@ -61,6 +61,14 @@ HTML속성(Attributes)
 1)HTML Element에 추가 정보를 제공
 2)name="value"형태로 사용
 
+웹 문서에서 표시할 수 있는 콘텐츠
+1)텍스트
+2)이미지
+3)멀티미디어(비디오,오디오)
+
+### 텍스트 콘텐츠 요소()
+
+
 >[1. HTML Heading 제목태그](https://www.w3schools.com/html/html_headings.asp)<br/>
 제목태그
 heading -> h
