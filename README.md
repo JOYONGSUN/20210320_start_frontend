@@ -119,7 +119,17 @@ href : 링크로 연결된 목적지 주소
 -controls
 -autoplay
 -nuted???????????????
+-loop
 
+>[HTML yotube videos]
+1)yotube의 매개변수
+-controls =>youtube_url/VIDEO_ID?controls=1
+-autoplay =>youtube_url/VIDEO_ID?autoplay=1
+-nuted??????????????? =>youtube_url/VIDEO_ID?nuted=1
+-loop =>youtube_url?loop=1
+
+여러 매개변수 동시 사용
+youtube_url/VIDEO_ID?controls=1&autoplay=1&mute=1&loop=1(&:ampersand)
 -------------------------------------------------
 html,css,js는클라이언트 브라우저가 해석(뿌려준다)랜더링한다
  해석=랜더링,컴파일링,인터프리팅
